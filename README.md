@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://sqtran01.github.io/QR-Code-Component/
 
 ## My process
 
@@ -30,6 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Editor: VSCode
 
 ### What I learned
 The thing that I learn the most from this project is how to center a container. Below is the code that I think that does it.
