@@ -59,7 +59,7 @@ There are still many things that are unclear to me now. One of them is how to co
 
 ## Author
 
-- Website - https:/www.santran.net
+- Website - https://www.santran.net
 - Frontend Mentor - https://www.frontendmentor.io/profile/sqtran01
 
 ## Acknowledgments
