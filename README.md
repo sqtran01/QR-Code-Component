@@ -59,8 +59,8 @@ There are still many things that are unclear to me now. One of them is how to co
 
 ## Author
 
-- Website - [San Tran](https:/www.santran.net)
-- Frontend Mentor - [@sqtran01](https://www.frontendmentor.io/profile/sqtran01)
+- Website - https:/www.santran.net
+- Frontend Mentor - https://www.frontendmentor.io/profile/sqtran01
 
 ## Acknowledgments
 
